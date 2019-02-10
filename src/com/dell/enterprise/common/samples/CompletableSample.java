@@ -1,13 +1,11 @@
 /*
  * Copyright (c) 2018.
  */
-
 package com.dell.enterprise.common.samples;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.CountDownLatch;
 import java.util.stream.Collectors;
 
 /**
